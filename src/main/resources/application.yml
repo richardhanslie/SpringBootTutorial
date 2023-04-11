@@ -1,0 +1,9 @@
+spring:
+  message:
+    Hello from application.yml
+
+api:
+  url2:
+    https://jsonplaceholder:typicode:com/posts
+  dataType:
+    json

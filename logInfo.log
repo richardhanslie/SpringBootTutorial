@@ -1,0 +1,26 @@
+2023-04-10T14:03:20.060+07:00  INFO 11020 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 11020 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-10T14:03:20.064+07:00  INFO 11020 --- [main] i.c.b.s.h.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2023-04-10T14:03:20.941+07:00  INFO 11020 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-10T14:03:20.950+07:00  INFO 11020 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-10T14:03:20.950+07:00  INFO 11020 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-10T14:03:21.037+07:00  INFO 11020 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-10T14:03:21.038+07:00  INFO 11020 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 932 ms
+2023-04-10T14:03:21.350+07:00  INFO 11020 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-10T14:03:21.361+07:00  INFO 11020 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 1.742 seconds (process running for 2.077)
+2023-04-10T14:03:25.746+07:00  INFO 11020 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-10T14:03:25.746+07:00  INFO 11020 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-10T14:03:25.747+07:00  INFO 11020 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-10T14:03:25.783+07:00  INFO 11020 --- [http-nio-8888-exec-1] i.c.b.s.h.controller.HelloController     : I am in api method
+2023-04-10T14:04:43.932+07:00  INFO 19868 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 19868 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-10T14:04:43.939+07:00  INFO 19868 --- [main] i.c.b.s.h.HelloWorldApplication          : No active profile set, falling back to 1 default profile: "default"
+2023-04-10T14:04:44.988+07:00  INFO 19868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2023-04-10T14:04:44.998+07:00  INFO 19868 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-10T14:04:44.999+07:00  INFO 19868 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-10T14:04:45.083+07:00  INFO 19868 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-10T14:04:45.084+07:00  INFO 19868 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1089 ms
+2023-04-10T14:04:45.417+07:00  INFO 19868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2023-04-10T14:04:45.425+07:00  INFO 19868 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.03 seconds (process running for 2.361)
+2023-04-10T14:04:50.943+07:00  INFO 19868 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-10T14:04:50.943+07:00  INFO 19868 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-10T14:04:50.944+07:00  INFO 19868 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-10T14:04:50.974+07:00  INFO 19868 --- [http-nio-8888-exec-1] i.c.b.s.h.controller.HelloController     : I am in api method

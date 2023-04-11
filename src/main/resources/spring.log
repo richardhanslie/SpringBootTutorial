@@ -1,0 +1,269 @@
+2023-04-11T09:51:55.555+07:00  INFO 18908 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 18908 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T09:51:55.571+07:00  INFO 18908 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T09:51:56.589+07:00  INFO 18908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T09:51:56.600+07:00  INFO 18908 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T09:51:56.600+07:00  INFO 18908 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T09:51:56.703+07:00  INFO 18908 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T09:51:56.704+07:00  INFO 18908 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1057 ms
+2023-04-11T09:51:57.108+07:00  INFO 18908 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T09:51:57.119+07:00  INFO 18908 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.141 seconds (process running for 2.545)
+2023-04-11T09:55:42.211+07:00  INFO 22952 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 22952 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T09:55:42.216+07:00  INFO 22952 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T09:55:43.253+07:00  INFO 22952 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T09:55:43.261+07:00  INFO 22952 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T09:55:43.261+07:00  INFO 22952 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T09:55:43.359+07:00  INFO 22952 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T09:55:43.359+07:00  INFO 22952 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1065 ms
+2023-04-11T09:55:43.746+07:00  INFO 22952 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T09:55:43.754+07:00  INFO 22952 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.148 seconds (process running for 2.574)
+2023-04-11T09:55:56.335+07:00  INFO 26244 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 26244 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T09:55:56.341+07:00  INFO 26244 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T09:55:57.312+07:00  INFO 26244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T09:55:57.322+07:00  INFO 26244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T09:55:57.322+07:00  INFO 26244 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T09:55:57.437+07:00  INFO 26244 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T09:55:57.438+07:00  INFO 26244 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1025 ms
+2023-04-11T09:55:57.860+07:00  INFO 26244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T09:55:57.871+07:00  INFO 26244 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.094 seconds (process running for 2.463)
+2023-04-11T09:59:41.503+07:00  INFO 9664 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 9664 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T09:59:41.506+07:00  INFO 9664 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T09:59:42.490+07:00  INFO 9664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T09:59:42.502+07:00  INFO 9664 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T09:59:42.502+07:00  INFO 9664 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T09:59:42.614+07:00  INFO 9664 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T09:59:42.615+07:00  INFO 9664 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1034 ms
+2023-04-11T09:59:42.679+07:00  WARN 9664 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeeController': Unsatisfied dependency expressed through field 'employeeService': Error creating bean with name 'employeeService': Unsatisfied dependency expressed through field 'iEmployeeRepository': No qualifying bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true), @org.springframework.beans.factory.annotation.Qualifier("employeeRepoJDBCBasic")}
+2023-04-11T09:59:42.686+07:00  INFO 9664 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-11T09:59:42.704+07:00  INFO 9664 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-11T09:59:42.731+07:00 ERROR 9664 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field iEmployeeRepository in id.co.bca.spring.helloworld.service.EmployeeService required a bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' in your configuration.
+
+2023-04-11T10:01:16.225+07:00  INFO 16508 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 16508 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T10:01:16.228+07:00  INFO 16508 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T10:01:17.226+07:00  INFO 16508 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T10:01:17.234+07:00  INFO 16508 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T10:01:17.234+07:00  INFO 16508 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T10:01:17.329+07:00  INFO 16508 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T10:01:17.330+07:00  INFO 16508 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1030 ms
+2023-04-11T10:01:17.384+07:00  WARN 16508 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeeController': Unsatisfied dependency expressed through field 'employeeService': Error creating bean with name 'employeeService': Unsatisfied dependency expressed through field 'iEmployeeRepository': No qualifying bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true), @org.springframework.beans.factory.annotation.Qualifier("employeeRepoJDBCBasic")}
+2023-04-11T10:01:17.388+07:00  INFO 16508 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-11T10:01:17.403+07:00  INFO 16508 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-11T10:01:17.421+07:00 ERROR 16508 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field iEmployeeRepository in id.co.bca.spring.helloworld.service.EmployeeService required a bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' in your configuration.
+
+2023-04-11T10:01:32.959+07:00  INFO 19368 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 19368 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T10:01:32.965+07:00  INFO 19368 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T10:01:33.945+07:00  INFO 19368 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T10:01:33.953+07:00  INFO 19368 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T10:01:33.954+07:00  INFO 19368 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T10:01:34.063+07:00  INFO 19368 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T10:01:34.063+07:00  INFO 19368 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1041 ms
+2023-04-11T10:01:34.144+07:00  WARN 19368 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeeController': Unsatisfied dependency expressed through field 'employeeService': Error creating bean with name 'employeeService': Unsatisfied dependency expressed through field 'iEmployeeRepository': No qualifying bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true), @org.springframework.beans.factory.annotation.Qualifier("employeeRepoJDBCBasic")}
+2023-04-11T10:01:34.149+07:00  INFO 19368 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-11T10:01:34.177+07:00  INFO 19368 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-04-11T10:01:34.207+07:00 ERROR 19368 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field iEmployeeRepository in id.co.bca.spring.helloworld.service.EmployeeService required a bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'id.co.bca.spring.helloworld.repository.IEmployeeRepository' in your configuration.
+
+2023-04-11T10:02:31.564+07:00  INFO 21964 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 21964 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T10:02:31.569+07:00  INFO 21964 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T10:02:32.590+07:00  INFO 21964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T10:02:32.601+07:00  INFO 21964 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T10:02:32.601+07:00  INFO 21964 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T10:02:32.693+07:00  INFO 21964 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T10:02:32.693+07:00  INFO 21964 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1056 ms
+2023-04-11T10:02:32.911+07:00  INFO 21964 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T10:02:33.169+07:00  INFO 21964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T10:02:33.180+07:00  INFO 21964 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.184 seconds (process running for 2.61)
+2023-04-11T10:06:26.724+07:00  INFO 20120 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 20120 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T10:06:26.727+07:00  INFO 20120 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T10:06:27.739+07:00  INFO 20120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T10:06:27.749+07:00  INFO 20120 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T10:06:27.749+07:00  INFO 20120 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T10:06:27.860+07:00  INFO 20120 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T10:06:27.861+07:00  INFO 20120 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1081 ms
+2023-04-11T10:06:28.158+07:00  INFO 20120 --- [main] id.co.bca.spring.helloworld.datasource   : connection unsuccessful
+2023-04-11T10:06:28.491+07:00  INFO 20120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T10:06:28.505+07:00  INFO 20120 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.306 seconds (process running for 2.664)
+2023-04-11T10:06:41.097+07:00  INFO 24744 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 24744 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T10:06:41.101+07:00  INFO 24744 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T10:06:42.070+07:00  INFO 24744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T10:06:42.077+07:00  INFO 24744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T10:06:42.078+07:00  INFO 24744 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T10:06:42.188+07:00  INFO 24744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T10:06:42.188+07:00  INFO 24744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1038 ms
+2023-04-11T10:06:42.460+07:00  INFO 24744 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T10:06:42.760+07:00  INFO 24744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T10:06:42.769+07:00  INFO 24744 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.194 seconds (process running for 2.565)
+2023-04-11T13:15:49.502+07:00  INFO 17632 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 17632 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:15:49.505+07:00  INFO 17632 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:15:50.594+07:00  INFO 17632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:15:50.601+07:00  INFO 17632 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:15:50.602+07:00  INFO 17632 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:15:50.712+07:00  INFO 17632 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:15:50.712+07:00  INFO 17632 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1153 ms
+2023-04-11T13:15:50.940+07:00  INFO 17632 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:15:51.227+07:00  INFO 17632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:15:51.235+07:00  INFO 17632 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.324 seconds (process running for 2.747)
+2023-04-11T13:16:16.125+07:00  INFO 17632 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:16:16.126+07:00  INFO 17632 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:16:16.126+07:00  INFO 17632 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-04-11T13:31:06.772+07:00  INFO 1628 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 1628 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:31:06.775+07:00  INFO 1628 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:31:07.781+07:00  INFO 1628 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:31:07.793+07:00  INFO 1628 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:31:07.793+07:00  INFO 1628 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:31:07.887+07:00  INFO 1628 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:31:07.888+07:00  INFO 1628 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1059 ms
+2023-04-11T13:31:08.095+07:00  INFO 1628 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:31:08.380+07:00  INFO 1628 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:31:08.391+07:00  INFO 1628 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.158 seconds (process running for 2.517)
+2023-04-11T13:33:49.200+07:00  INFO 1628 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:33:49.201+07:00  INFO 1628 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:33:49.201+07:00  INFO 1628 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-04-11T13:36:05.129+07:00  INFO 1628 --- [http-nio-8899-exec-4] id.co.bca.spring.helloworld.datasource   : successful insert data
+2023-04-11T13:36:58.276+07:00  INFO 1628 --- [http-nio-8899-exec-6] id.co.bca.spring.helloworld.datasource   : unsuccessful update data
+2023-04-11T13:37:33.490+07:00  INFO 1628 --- [http-nio-8899-exec-9] id.co.bca.spring.helloworld.datasource   : unsuccessful update data
+2023-04-11T13:38:49.051+07:00  INFO 9924 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 9924 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:38:49.054+07:00  INFO 9924 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:38:50.169+07:00  INFO 9924 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:38:50.186+07:00  INFO 9924 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:38:50.186+07:00  INFO 9924 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:38:50.306+07:00  INFO 9924 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:38:50.307+07:00  INFO 9924 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1197 ms
+2023-04-11T13:38:50.553+07:00  INFO 9924 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:38:50.879+07:00  INFO 9924 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:38:50.891+07:00  INFO 9924 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.375 seconds (process running for 2.823)
+2023-04-11T13:38:54.071+07:00  INFO 9924 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:38:54.071+07:00  INFO 9924 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:38:54.072+07:00  INFO 9924 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-11T13:38:54.124+07:00  INFO 9924 --- [http-nio-8899-exec-1] id.co.bca.spring.helloworld.datasource   : unsuccessful update data
+2023-04-11T13:39:48.375+07:00  INFO 9924 --- [http-nio-8899-exec-3] id.co.bca.spring.helloworld.datasource   : unsuccessful update data
+2023-04-11T13:40:31.218+07:00  INFO 856 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 856 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:40:31.221+07:00  INFO 856 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:40:32.166+07:00  INFO 856 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:40:32.173+07:00  INFO 856 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:40:32.174+07:00  INFO 856 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:40:32.261+07:00  INFO 856 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:40:32.262+07:00  INFO 856 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 988 ms
+2023-04-11T13:40:32.464+07:00  INFO 856 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:40:32.740+07:00  INFO 856 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:40:32.749+07:00  INFO 856 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.06 seconds (process running for 2.418)
+2023-04-11T13:40:36.838+07:00  INFO 856 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:40:36.839+07:00  INFO 856 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:40:36.839+07:00  INFO 856 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-04-11T13:40:36.916+07:00  INFO 856 --- [http-nio-8899-exec-1] id.co.bca.spring.helloworld.datasource   : unsuccessful update data
+2023-04-11T13:41:04.319+07:00  INFO 1652 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 1652 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:41:04.321+07:00  INFO 1652 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:41:05.307+07:00  INFO 1652 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:41:05.315+07:00  INFO 1652 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:41:05.315+07:00  INFO 1652 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:41:05.420+07:00  INFO 1652 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:41:05.421+07:00  INFO 1652 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1050 ms
+2023-04-11T13:41:05.661+07:00  INFO 1652 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:41:05.999+07:00  INFO 1652 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:41:06.012+07:00  INFO 1652 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.19 seconds (process running for 2.595)
+2023-04-11T13:41:09.718+07:00  INFO 1652 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:41:09.718+07:00  INFO 1652 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:41:09.719+07:00  INFO 1652 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-11T13:41:10.061+07:00  INFO 1652 --- [http-nio-8899-exec-1] id.co.bca.spring.helloworld.datasource   : successful update data
+2023-04-11T13:42:07.100+07:00  INFO 1652 --- [http-nio-8899-exec-4] id.co.bca.spring.helloworld.datasource   : successful delete data
+2023-04-11T13:44:07.407+07:00  INFO 17296 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 17296 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:44:07.409+07:00  INFO 17296 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:44:08.398+07:00  INFO 17296 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:44:08.407+07:00  INFO 17296 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:44:08.407+07:00  INFO 17296 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:44:08.513+07:00  INFO 17296 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:44:08.514+07:00  INFO 17296 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1055 ms
+2023-04-11T13:44:08.762+07:00  INFO 17296 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:44:09.064+07:00  INFO 17296 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:44:09.074+07:00  INFO 17296 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.179 seconds (process running for 2.566)
+2023-04-11T13:44:12.106+07:00  INFO 17296 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:44:12.106+07:00  INFO 17296 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:44:12.107+07:00  INFO 17296 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-11T13:45:48.211+07:00  INFO 12540 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 12540 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:45:48.215+07:00  INFO 12540 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:45:49.284+07:00  INFO 12540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:45:49.295+07:00  INFO 12540 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:45:49.295+07:00  INFO 12540 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:45:49.411+07:00  INFO 12540 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:45:49.412+07:00  INFO 12540 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1142 ms
+2023-04-11T13:45:49.650+07:00  INFO 12540 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:45:50.040+07:00  INFO 12540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:45:50.050+07:00  INFO 12540 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.341 seconds (process running for 2.751)
+2023-04-11T13:47:07.363+07:00  INFO 22700 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 22700 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:47:07.366+07:00  INFO 22700 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:47:08.378+07:00  INFO 22700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:47:08.387+07:00  INFO 22700 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:47:08.388+07:00  INFO 22700 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:47:08.513+07:00  INFO 22700 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:47:08.514+07:00  INFO 22700 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1097 ms
+2023-04-11T13:47:08.795+07:00  INFO 22700 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:47:09.157+07:00  INFO 22700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:47:09.169+07:00  INFO 22700 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.296 seconds (process running for 2.677)
+2023-04-11T13:47:13.826+07:00  INFO 22700 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:47:13.827+07:00  INFO 22700 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:47:13.828+07:00  INFO 22700 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-11T13:48:18.259+07:00  INFO 24600 --- [main] i.c.b.s.h.HelloWorldApplication          : Starting HelloWorldApplication using Java 17 with PID 24600 (D:\Spring Boot Project\Hello-World\target\classes started by Richard in D:\Spring Boot Project\Hello-World)
+2023-04-11T13:48:18.262+07:00  INFO 24600 --- [main] i.c.b.s.h.HelloWorldApplication          : The following 1 profile is active: "dev"
+2023-04-11T13:48:19.486+07:00  INFO 24600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8899 (http)
+2023-04-11T13:48:19.494+07:00  INFO 24600 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-11T13:48:19.494+07:00  INFO 24600 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.7]
+2023-04-11T13:48:19.630+07:00  INFO 24600 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-11T13:48:19.630+07:00  INFO 24600 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1305 ms
+2023-04-11T13:48:19.919+07:00  INFO 24600 --- [main] id.co.bca.spring.helloworld.datasource   : connection successful
+2023-04-11T13:48:20.265+07:00  INFO 24600 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8899 (http) with context path ''
+2023-04-11T13:48:20.275+07:00  INFO 24600 --- [main] i.c.b.s.h.HelloWorldApplication          : Started HelloWorldApplication in 2.579 seconds (process running for 2.996)
+2023-04-11T13:48:23.012+07:00  INFO 24600 --- [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-11T13:48:23.012+07:00  INFO 24600 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-11T13:48:23.013+07:00  INFO 24600 --- [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
