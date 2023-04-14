@@ -12,7 +12,7 @@ import java.util.List;
 public class EmployeeService {
     @Autowired
     //@Qualifier("employeeRepoJDBCBasic")
-    @Qualifier("employeeRepoImplJDBCTemplate")
+    @Qualifier("employeeRepoHibernate")
     IEmployeeRepository iEmployeeRepository;
 
     public void insert(EmployeeModel employee){
